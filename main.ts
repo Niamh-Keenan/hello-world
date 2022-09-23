@@ -1,4 +1,4 @@
 basic.showString("Hello, World")
-basic.forever(function () {
-	
+basic.forever(function on_forever() {
+    
 })
